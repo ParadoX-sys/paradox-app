@@ -1,5 +1,6 @@
 {
     "langs": {
+        "all":["ru","en"},
         "ru": {
             "log": {
                 "textup": "Вход",
