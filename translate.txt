@@ -1,4 +1,4 @@
-"langs": {
+{"langs":{
     "all":["ru","en"],
     "ru": {
         "log": {
@@ -14,6 +14,7 @@
             "email_entr": "Ваша почта",
             "text_but": "Зарегистрироваться"
         }
+    },
     "en": {
         "log": {
             "textup": "Log in",
@@ -29,4 +30,5 @@
             "text_but": "Sign up"
         }
     }
+}
 }
