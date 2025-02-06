@@ -1,34 +1,32 @@
-{
-    "langs": {
-        "all":["ru","en"],
-        "ru": {
-            "log": {
-                "textup": "Вход",
-                "log_entr": "Логин",
-                "pass_entr": "Пароль",
-                "text_but": "Войти"
-            },
-            "reg": {
-                "textup": "Регистрация",
-                "log_entr": "Ваш логин",
-                "pass_entr": "Ваш пароль",
-                "email_entr": "Ваша почта",
-                "text_but": "Зарегистрироваться"
-            }
-        "en": {
-            "log": {
-                "textup": "Log in",
-                "log_entr": "Login",
-                "pass_entr": "Password",
-                "text_but": "Log in"
-            },
-            "reg": {
-                "textup": "Sign up",
-                "log_entr": "Your login",
-                "pass_entr": "Your password",
-                "email_entr": "Your email",
-                "text_but": "Sign up"
-            }
+"langs": {
+    "all":["ru","en"],
+    "ru": {
+        "log": {
+            "textup": "Вход",
+            "log_entr": "Логин",
+            "pass_entr": "Пароль",
+            "text_but": "Войти"
+        },
+        "reg": {
+            "textup": "Регистрация",
+            "log_entr": "Ваш логин",
+            "pass_entr": "Ваш пароль",
+            "email_entr": "Ваша почта",
+            "text_but": "Зарегистрироваться"
+        }
+    "en": {
+        "log": {
+            "textup": "Log in",
+            "log_entr": "Login",
+            "pass_entr": "Password",
+            "text_but": "Log in"
+        },
+        "reg": {
+            "textup": "Sign up",
+            "log_entr": "Your login",
+            "pass_entr": "Your password",
+            "email_entr": "Your email",
+            "text_but": "Sign up"
         }
     }
 }
