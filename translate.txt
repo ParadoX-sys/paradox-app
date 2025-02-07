@@ -1,6 +1,7 @@
 {"langs":{
     "all":["ru","en"],
     "ru": {
+        "lang_name":"Русский",
         "log": {
             "textup": "Вход",
             "log_entr": "Логин",
@@ -16,6 +17,7 @@
         }
     },
     "en": {
+        "lang_name":"English",
         "log": {
             "textup": "Log in",
             "log_entr": "Login",
