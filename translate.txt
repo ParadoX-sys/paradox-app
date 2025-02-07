@@ -1,5 +1,5 @@
 {"langs":{
-    "all":["ru","en"],
+    "all":["ru","en","de"],
     "ru": {
         "lang_name":"Русский",
         "log": {
@@ -31,6 +31,22 @@
             "email_entr": "Your email:",
             "text_but": "Sign up"
         }
+    },
+   "de": {
+    "lang_name": "Deutsch",
+    "log": {
+        "textup": "Anmeldung",
+        "log_entr": "Login:",
+        "pass_entr": "Passwort:",
+        "text_but": "Einloggen"
+    },
+    "reg": {
+        "textup": "Registrierung",
+        "log_entr": "Ihr Login:",
+        "pass_entr": "Ihr Passwort:",
+        "email_entr": "Ihre E-Mail:",
+        "text_but": "Registrieren"
     }
+}
 }
 }
