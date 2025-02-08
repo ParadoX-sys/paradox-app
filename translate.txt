@@ -14,6 +14,9 @@
             "pass_entr": "Ваш пароль:",
             "email_entr": "Ваша почта:",
             "text_but": "Зарегистрироваться"
+        },
+        "settings":{
+            "settings_name":"Настройки':
         }
     },
     "en": {
