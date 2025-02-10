@@ -16,7 +16,7 @@
             "text_but": "Зарегистрироваться"
         },
         "settings":{
-            "settings_name":"Настройки':
+            "settings_name":"Настройки'
         }
     },
     "en": {
